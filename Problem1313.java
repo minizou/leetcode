@@ -8,6 +8,8 @@ public class Problem1313 {
      * 2. Intuition
      *      - Add up frequencies in for-loop to determine solution array length
      *      - Loop values into solution array by iterating each value based on its frequency
+     * 3. Alternative Approaches
+     *      - Using Arrays.fill()
      *
      * @param nums
      * @return decompressed run-length encoded list
