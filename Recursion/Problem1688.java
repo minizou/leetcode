@@ -1,5 +1,7 @@
 public class Problem1688 {
     /**
+     * 1688. Count of Matches in Tournament (Easy)
+     *
      * 1. Complexity
      *      - Time complexity: O(log n) where n is number of matches [Method 1], O(1) [Method 2]
      *      - Space complexity: O(1) [Both methods]
