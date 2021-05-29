@@ -38,7 +38,7 @@ public class Problem872 {
         return leaves1.equals(leaves2);
     }
 
-    public void helper(TreeNode root,List<Integer> list) { // finds leaves of root node
+    public void helper(TreeNode root,ArrayList<Integer> list) { // finds leaves of root node
         if (root == null) {
             return;
         } else if (root.left == null && root.right == null) { // end of node line aka leaf found
