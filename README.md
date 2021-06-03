@@ -1,4 +1,4 @@
-# LeetCode | 27 Problems Solved (22 easy, 5 medium, 0 hard)
+# LeetCode | 33 Problems Solved (26 easy, 7 medium, 0 hard)
 My solutions for various LeetCode problems (code, time/space complexity, intuition).
 
 \# | Problem | Tag | Difficulty
@@ -7,6 +7,7 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
+509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic Programming | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
@@ -31,4 +32,4 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
 
-More to be added.
+More to be added: 70, 88, 97, 300, 1089
