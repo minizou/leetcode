@@ -22,7 +22,6 @@ public class Problem509 {
      * @return F(n) where F(n) = F(n - 1) + F(n - 2), for n > 1.
      */
 
-
     public int fib(int n) {
         if (n < 2) { // base case
             return n;
