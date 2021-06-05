@@ -1,4 +1,4 @@
-# LeetCode | 33 Problems Solved (26 easy, 7 medium, 0 hard)
+# LeetCode | 35 Problems Solved (26 easy, 9 medium, 0 hard)
 My solutions for various LeetCode problems (code, time/space complexity, intuition).
 
 \# | Problem | Tag | Difficulty
@@ -22,6 +22,7 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 1323 | [Maximum 69 Number](/Math/Problem1323.java) | Math | Easy
 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/Trees/Problem1379.java) | Tree | Medium
 1389 | [Create Target Array in the Given Order](/Array/Problem1389.java) | Array | Easy
+1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](/Array/Problem1465.java) | Array | Medium
 1528 | [Shuffle String](/String/Problem1528.java) | String | Easy
 1678 | [Goal Parser Interpretation](/String/Problem1678.java) | String | Easy
 1684 | [Count the Number of Consistent Strings](/String/Problem1684.java) | String | Easy
@@ -34,4 +35,4 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
 
-More to be added: 97, 300, 1089
+More to be added: 97, 300, 752, 1089
