@@ -1,4 +1,4 @@
-# LeetCode | 35 Problems Solved (26 easy, 9 medium, 0 hard)
+# LeetCode | 36 Problems Solved (26 easy, 9 medium, 1 hard)
 My solutions for various LeetCode problems (code, time/space complexity, intuition).
 
 \# | Problem | Tag | Difficulty
@@ -35,4 +35,4 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
 
-More to be added: 97, 300, 752, 1089
+More to be added: 97, 300, 752, 1089, 1383
