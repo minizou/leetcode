@@ -1,9 +1,11 @@
-# LeetCode | 37 Problems Solved (27 easy, 9 medium, 1 hard)
-My solutions for various LeetCode problems (code, time/space complexity, intuition).
+# LeetCode | 39 Problems Solved (27 easy, 11 medium, 1 hard)
+My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
+Note that the LeetCode problem descriptions themselves are **not added.**
 
 \# | Problem | Tag | Difficulty
 ---|---|---|---
 1 | [Two Sum](/Hash/Problem1.java) | Hash | Easy 
+3 | [Longest Substring Without Repeating Characters](/Pointers/Problem3.java) | Pointers | Medium
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
@@ -13,6 +15,7 @@ My solutions for various LeetCode problems (code, time/space complexity, intuiti
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
+904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
 938 | [Range Sum of BST](/Trees/Problem938.java) | Trees | Easy 
 977 | [Squares of a Sorted Array](/Pointers/Problem977.java) | Pointers | Easy
 1221 | [Split a String in Balanced Strings](/Greedy/Problem1221.java) | Greedy | Easy
