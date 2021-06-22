@@ -1,4 +1,4 @@
-# LeetCode | 39 Problems Solved (27 easy, 11 medium, 1 hard)
+# LeetCode | 41 Problems Solved (28 easy, 12 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -10,8 +10,10 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
+209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
+643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
