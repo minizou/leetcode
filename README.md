@@ -1,4 +1,4 @@
-# LeetCode | 41 Problems Solved (28 easy, 12 medium, 1 hard)
+# LeetCode | 42 Problems Solved (28 easy, 13 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -6,6 +6,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 ---|---|---|---
 1 | [Two Sum](/Hash/Problem1.java) | Hash | Easy 
 3 | [Longest Substring Without Repeating Characters](/Pointers/Problem3.java) | Pointers | Medium
+11 | [Container With Most Water](/Pointers/Problem11.java) | Pointers | Medium
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
