@@ -1,4 +1,4 @@
-# LeetCode | 42 Problems Solved (28 easy, 13 medium, 1 hard)
+# LeetCode | 46 Problems Solved (30 easy, 15 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -12,11 +12,15 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
+349 | [Intersection of Two Arrays](/Pointers/Problem349.java) | Pointers | Easy
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
+763 | [Partition Labels](/Pointers/Problem763.java) | Pointers | Medium
+804 | [Unique Morse Code Words](/Hash/Problem804.java) | Hash | Easy
+807 | [Max Increase to Keep City Skyline](/Array/Problem807.java) | Array | Medium
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
 904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
 938 | [Range Sum of BST](/Trees/Problem938.java) | Trees | Easy 
