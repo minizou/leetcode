@@ -1,4 +1,4 @@
-# LeetCode | 46 Problems Solved (30 easy, 15 medium, 1 hard)
+# LeetCode | 50 Problems Solved (34 easy, 15 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -17,14 +17,18 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
+709 | [To Lower Case](/String/Problem709.java) | String | Easy
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
 763 | [Partition Labels](/Pointers/Problem763.java) | Pointers | Medium
 804 | [Unique Morse Code Words](/Hash/Problem804.java) | Hash | Easy
 807 | [Max Increase to Keep City Skyline](/Array/Problem807.java) | Array | Medium
+832 | [Flipping an Image](/Array/Problem832.java) | Array | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
 904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
+905 | [Sort Array By Parity](/Pointers/Problem905.java) | Pointers | Easy
 938 | [Range Sum of BST](/Trees/Problem938.java) | Trees | Easy 
 977 | [Squares of a Sorted Array](/Pointers/Problem977.java) | Pointers | Easy
+1021 | [Remove Outermost Parentheses](/String/Problem1021.java) | String | Easy
 1221 | [Split a String in Balanced Strings](/Greedy/Problem1221.java) | Greedy | Easy
 1281 | [Subtract the Product and Sum of Digits of an Integer](/Math/Problem1281.java) | Math | Easy
 1295 | [Find Numbers with Even Number of Digits](/Array/Problem1295.java) | Array | Easy
