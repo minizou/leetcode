@@ -1,4 +1,4 @@
-# LeetCode | 50 Problems Solved (34 easy, 15 medium, 1 hard)
+# LeetCode | 54 Problems Solved (37 easy, 16 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -12,9 +12,11 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
+344 | [Reverse String](/Pointers/Problem344.java) | Pointers | Easy
 349 | [Intersection of Two Arrays](/Pointers/Problem349.java) | Pointers | Easy
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
+557 | [Reverse Words in a String III](/Pointers/Problem557.java) | Pointers | Easy
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 709 | [To Lower Case](/String/Problem709.java) | String | Easy
@@ -26,6 +28,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
 904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
 905 | [Sort Array By Parity](/Pointers/Problem905.java) | Pointers | Easy
+922 | [Sort Array By Parity II](/Pointers/Problem905.java) | Pointers | Easy
 938 | [Range Sum of BST](/Trees/Problem938.java) | Trees | Easy 
 977 | [Squares of a Sorted Array](/Pointers/Problem977.java) | Pointers | Easy
 1021 | [Remove Outermost Parentheses](/String/Problem1021.java) | String | Easy
@@ -48,5 +51,6 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1828 | [Queries on Number of Points Inside a Circle](/Math/Problem1828.java) | Math | Medium
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
+1877 | [Minimize Maximum Pair Sum in Array](/Pointers/Problem1877.java) | Pointers | Medium
 
 More to be added: 97, 300, 746, 752, 1089, 1383
