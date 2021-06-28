@@ -1,4 +1,4 @@
-# LeetCode | 54 Problems Solved (37 easy, 16 medium, 1 hard)
+# LeetCode | 58 Problems Solved (39 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -7,6 +7,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1 | [Two Sum](/Hash/Problem1.java) | Hash | Easy 
 3 | [Longest Substring Without Repeating Characters](/Pointers/Problem3.java) | Pointers | Medium
 11 | [Container With Most Water](/Pointers/Problem11.java) | Pointers | Medium
+26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
@@ -24,6 +25,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 763 | [Partition Labels](/Pointers/Problem763.java) | Pointers | Medium
 804 | [Unique Morse Code Words](/Hash/Problem804.java) | Hash | Easy
 807 | [Max Increase to Keep City Skyline](/Array/Problem807.java) | Array | Medium
+821 | [Shortest Distance to a Character](/Pointers/Problem821.java) | Pointers | Easy
 832 | [Flipping an Image](/Array/Problem832.java) | Array | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
 904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
@@ -31,6 +33,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 922 | [Sort Array By Parity II](/Pointers/Problem905.java) | Pointers | Easy
 938 | [Range Sum of BST](/Trees/Problem938.java) | Trees | Easy 
 977 | [Squares of a Sorted Array](/Pointers/Problem977.java) | Pointers | Easy
+986 | [Interval List Intersections](/Pointers/Problem986.java) | Pointers | Medium
 1021 | [Remove Outermost Parentheses](/String/Problem1021.java) | String | Easy
 1221 | [Split a String in Balanced Strings](/Greedy/Problem1221.java) | Greedy | Easy
 1281 | [Subtract the Product and Sum of Digits of an Integer](/Math/Problem1281.java) | Math | Easy
@@ -44,6 +47,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1678 | [Goal Parser Interpretation](/String/Problem1678.java) | String | Easy
 1684 | [Count the Number of Consistent Strings](/String/Problem1684.java) | String | Easy
 1688 | [Count of Matches in Tournament](/Recursion/Problem1688.java) | Recursion | Easy
+1721 | [Swapping Nodes in a Linked List](/Pointers/Problem1721.java) | Pointers | Medium
 1732 | [Find the Highest Altitude](/Array/Problem1732.java) | Array | Easy
 1773 | [Count Items Matching a Rule](/Array/Problem1773.java) | Array | Easy
 1780 | [Check if Number is a Sum of Powers of Three](/Math/Problem1780.java) | Math | Medium
