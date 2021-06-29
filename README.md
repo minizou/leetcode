@@ -1,4 +1,4 @@
-# LeetCode | 58 Problems Solved (39 easy, 18 medium, 1 hard)
+# LeetCode | 62 Problems Solved (43 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -6,7 +6,10 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 ---|---|---|---
 1 | [Two Sum](/Hash/Problem1.java) | Hash | Easy 
 3 | [Longest Substring Without Repeating Characters](/Pointers/Problem3.java) | Pointers | Medium
+7 | [Reverse Integer](/Array/Problem7.java) | Array | Easy
+9 | [Palindrome Number](/Math/Problem9.java) | Math | Easy
 11 | [Container With Most Water](/Pointers/Problem11.java) | Pointers | Medium
+13 | [Roman to Integer](/String/Problem13.java) | String | Easy
 26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
@@ -18,6 +21,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
 557 | [Reverse Words in a String III](/Pointers/Problem557.java) | Pointers | Easy
+561 | [Array Partition I](/Array/Problem561.java) | Array | Easy
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
 709 | [To Lower Case](/String/Problem709.java) | String | Easy
