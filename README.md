@@ -1,4 +1,4 @@
-# LeetCode | 66 Problems Solved (47 easy, 18 medium, 1 hard)
+# LeetCode | 70 Problems Solved (51 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -14,6 +14,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 20 | [Valid Parentheses](/Stack/Problem20.java) | Stack | Easy
 21 | [Merge Two Sorted Lists](/Pointers/Problem21.java) | Pointers | Easy
 26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
+28 | [Implement strStr()](/Pointers/Problem28.java) | Pointers | Easy
 35 | [Search Insert Position](/Binary_Search/Problem35.java) | Binary Search | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
@@ -51,6 +52,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/Trees/Problem1379.java) | Tree | Medium
 1389 | [Create Target Array in the Given Order](/Array/Problem1389.java) | Array | Easy
 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](/Array/Problem1465.java) | Array | Medium
+1486 | [XOR Operation in an Array](/Math/Problem1486.java) | Math | Easy
 1528 | [Shuffle String](/String/Problem1528.java) | String | Easy
 1678 | [Goal Parser Interpretation](/String/Problem1678.java) | String | Easy
 1684 | [Count the Number of Consistent Strings](/String/Problem1684.java) | String | Easy
@@ -60,9 +62,11 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1773 | [Count Items Matching a Rule](/Array/Problem1773.java) | Array | Easy
 1780 | [Check if Number is a Sum of Powers of Three](/Math/Problem1780.java) | Math | Medium
 1791 | [Find Center of Star Graph](/Graph/Problem1791.java) | Graph | Medium
+1816 | [Truncate Sentence](/String/Problem1816.java) | String | Easy
 1828 | [Queries on Number of Points Inside a Circle](/Math/Problem1828.java) | Math | Medium
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
 1877 | [Minimize Maximum Pair Sum in Array](/Pointers/Problem1877.java) | Pointers | Medium
+1913 | [Maximum Product Difference Between Two Pairs](/Array/Problem1913.java) | Array | Easy
 
 More to be added: 97, 300, 746, 752, 1089, 1383
