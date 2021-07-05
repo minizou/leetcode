@@ -1,4 +1,4 @@
-# LeetCode | 75 Problems Solved (56 easy, 18 medium, 1 hard)
+# LeetCode | 76 Problems Solved (57 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -54,6 +54,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/Trees/Problem1379.java) | Tree | Medium
 1389 | [Create Target Array in the Given Order](/Array/Problem1389.java) | Array | Easy
 1436 | [Destination City](/Hash/Problem1436.java) | Hash | Easy
+1450 | [Number of Students Doing Homework at a Given Time](/Array/Problem1450.java) | Array | Easy
 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](/Array/Problem1465.java) | Array | Medium
 1486 | [XOR Operation in an Array](/Math/Problem1486.java) | Math | Easy
 1528 | [Shuffle String](/String/Problem1528.java) | String | Easy
