@@ -1,4 +1,4 @@
-# LeetCode | 76 Problems Solved (57 easy, 18 medium, 1 hard)
+# LeetCode | 77 Problems Solved (58 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -48,6 +48,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1221 | [Split a String in Balanced Strings](/Greedy/Problem1221.java) | Greedy | Easy
 1281 | [Subtract the Product and Sum of Digits of an Integer](/Math/Problem1281.java) | Math | Easy
 1295 | [Find Numbers with Even Number of Digits](/Array/Problem1295.java) | Array | Easy
+1299 | [Replace Elements with Greatest Element on Right Side](/Array/Problem1299.java) | Array | Easy
 1309 | [Decrypt String from Alphabet to Integer Mapping](/String/Problem1309.java) | String | Easy
 1313 | [Decompress Run-Length Encoded List](/Array/Problem1313.java) | Array | Easy
 1323 | [Maximum 69 Number](/Math/Problem1323.java) | Math | Easy
