@@ -1,4 +1,4 @@
-# LeetCode | 77 Problems Solved (58 easy, 18 medium, 1 hard)
+# LeetCode | 81 Problems Solved (62 easy, 18 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -45,6 +45,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 977 | [Squares of a Sorted Array](/Pointers/Problem977.java) | Pointers | Easy
 986 | [Interval List Intersections](/Pointers/Problem986.java) | Pointers | Medium
 1021 | [Remove Outermost Parentheses](/String/Problem1021.java) | String | Easy
+1207 | [Unique Number of Occurrences](/Hash/Problem1207.java) | Hash | Easy
 1221 | [Split a String in Balanced Strings](/Greedy/Problem1221.java) | Greedy | Easy
 1281 | [Subtract the Product and Sum of Digits of an Integer](/Math/Problem1281.java) | Math | Easy
 1295 | [Find Numbers with Even Number of Digits](/Array/Problem1295.java) | Array | Easy
@@ -52,6 +53,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1309 | [Decrypt String from Alphabet to Integer Mapping](/String/Problem1309.java) | String | Easy
 1313 | [Decompress Run-Length Encoded List](/Array/Problem1313.java) | Array | Easy
 1323 | [Maximum 69 Number](/Math/Problem1323.java) | Math | Easy
+1374 | [Generate a String With Characters That Have Odd Counts](/String/Problem1374.java) | String | Easy
 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/Trees/Problem1379.java) | Tree | Medium
 1389 | [Create Target Array in the Given Order](/Array/Problem1389.java) | Array | Easy
 1436 | [Destination City](/Hash/Problem1436.java) | Hash | Easy
@@ -65,9 +67,11 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1704 | [Determine if String Halves Are Alike](/String/Problem1704.java) | String | Easy
 1721 | [Swapping Nodes in a Linked List](/Pointers/Problem1721.java) | Pointers | Medium
 1732 | [Find the Highest Altitude](/Array/Problem1732.java) | Array | Easy
+1748 | [Sum of Unique Elements](/Hash/Problem1748.java) | Hash | Easy
 1773 | [Count Items Matching a Rule](/Array/Problem1773.java) | Array | Easy
 1780 | [Check if Number is a Sum of Powers of Three](/Math/Problem1780.java) | Math | Medium
 1791 | [Find Center of Star Graph](/Graph/Problem1791.java) | Graph | Medium
+1812 | [Determine Color of a Chessboard Square](/String/Problem1812.java) | String | Easy
 1816 | [Truncate Sentence](/String/Problem1816.java) | String | Easy
 1827 | [Minimum Operations to Make the Array Increasing](/Array/Problem1827.java) | Array | Easy
 1828 | [Queries on Number of Points Inside a Circle](/Math/Problem1828.java) | Math | Medium
