@@ -1,4 +1,4 @@
-# LeetCode | 81 Problems Solved (62 easy, 18 medium, 1 hard)
+# LeetCode | 85 Problems Solved (65 easy, 19 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -17,16 +17,20 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 28 | [Implement strStr()](/Pointers/Problem28.java) | Pointers | Easy
 35 | [Search Insert Position](/Binary_Search/Problem35.java) | Binary Search | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
+75 | [Sort Colors](/Array/Problem75) | Array / Counting Sort | Medium
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
+231 | [Power of Two](/Recursion/Problem231.java) | Recursion | Easy
+326 | [Power of Three](/Recursion/Problem326.java) | Recursion | Easy
+342 | [Power of Four](/Recursion/Problem342.java) | Recursion | Easy
 344 | [Reverse String](/Pointers/Problem344.java) | Pointers | Easy
 349 | [Intersection of Two Arrays](/Pointers/Problem349.java) | Pointers | Easy
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
 557 | [Reverse Words in a String III](/Pointers/Problem557.java) | Pointers | Easy
-561 | [Array Partition I](/Array/Problem561.java) | Array | Easy
+561 | [Array Partition I](/Array/Problem561.java) | Array / Counting Sort | Easy
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 657 | [Robot Return to Origin](/String/Problem657.java) | String | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
@@ -78,6 +82,6 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 1832 | [Check if the Sentence Is Pangram](/String/Problem1832.java) | String | Easy
 1837 | [Sum of Digits in Base K](/Math/Problem1837.java) | Math | Easy
 1877 | [Minimize Maximum Pair Sum in Array](/Pointers/Problem1877.java) | Pointers | Medium
-1913 | [Maximum Product Difference Between Two Pairs](/Array/Problem1913.java) | Array | Easy
+1913 | [Maximum Product Difference Between Two Pairs](/Array/Problem1913.java) | Array / Counting Sort | Easy
 
 More to be added: 97, 300, 746, 752, 1089, 1383
