@@ -1,4 +1,4 @@
-# LeetCode | 85 Problems Solved (65 easy, 19 medium, 1 hard)
+# LeetCode | 90 Problems Solved (70 easy, 19 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -16,6 +16,8 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
 28 | [Implement strStr()](/Pointers/Problem28.java) | Pointers | Easy
 35 | [Search Insert Position](/Binary_Search/Problem35.java) | Binary Search | Easy
+66 | [Plus One](/Array/Problem66.java) | Array | Easy
+69 | [Sqrt(x)](/Binary_Search/Problem69.java) | Binary Search | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
 75 | [Sort Colors](/Array/Problem75) | Array / Counting Sort | Medium
 88 | [Merge Sorted Array](/Pointers/Problem88.java) | Pointers | Easy
@@ -23,10 +25,13 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
 231 | [Power of Two](/Recursion/Problem231.java) | Recursion | Easy
+263 | [Ugly Number](/Recursion/Problem263.java) | Recursion | Easy
+268 | [Missing Number](/Math/Problem268.java) | Math / Binary Search | Easy
 326 | [Power of Three](/Recursion/Problem326.java) | Recursion | Easy
 342 | [Power of Four](/Recursion/Problem342.java) | Recursion | Easy
 344 | [Reverse String](/Pointers/Problem344.java) | Pointers | Easy
 349 | [Intersection of Two Arrays](/Pointers/Problem349.java) | Pointers | Easy
+367 | [Valid Perfect Square](/Binary_Search/Problem367.java) | Binary Search | Easy
 485 | [Max Consecutive Ones](/Array/Problem485.java) | Array | Easy
 509 | [Fibonacci Number](/Dynamic/Problem509.java) | Dynamic | Easy
 557 | [Reverse Words in a String III](/Pointers/Problem557.java) | Pointers | Easy
