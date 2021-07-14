@@ -1,4 +1,4 @@
-# LeetCode | 90 Problems Solved (70 easy, 19 medium, 1 hard)
+# LeetCode | 92 Problems Solved (70 easy, 21 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -13,9 +13,11 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 14 | [Longest Common Prefix](/String/Problem14.java) | String | Easy
 20 | [Valid Parentheses](/Stack/Problem20.java) | Stack | Easy
 21 | [Merge Two Sorted Lists](/Pointers/Problem21.java) | Pointers | Easy
+22 | [Generate Parentheses](/Recursion/Problem22.java) | Recursion / Backtracking | Medium
 26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
 28 | [Implement strStr()](/Pointers/Problem28.java) | Pointers | Easy
 35 | [Search Insert Position](/Binary_Search/Problem35.java) | Binary Search | Easy
+48 | [Rotate Image](/Array/Problem48.java) | Array / Pointers / Spiral | Medium
 66 | [Plus One](/Array/Problem66.java) | Array | Easy
 69 | [Sqrt(x)](/Binary_Search/Problem69.java) | Binary Search | Easy
 70 | [Climbing Stairs](/Dynamic/Problem70.java) | Dynamic | Easy
