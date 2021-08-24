@@ -1,6 +1,6 @@
 public class Problem168 {
     /**
-     * 1. Excel Sheet Column Title (Easy)
+     * 168. Excel Sheet Column Title (Easy)
      *
      * 1. Complexity
      *      - Time complexity: O(n) (due to StringBuilder.reverse()) where n is the length of ans

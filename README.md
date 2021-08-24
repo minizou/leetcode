@@ -1,4 +1,4 @@
-# LeetCode | 95 Problems Solved (71 easy, 23 medium, 1 hard)
+# LeetCode | 96 Problems Solved (72 easy, 23 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -28,6 +28,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 104 | [Maximum Depth of Binary Tree](/Trees/Problem104.java) | Trees | Easy 
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 168 | [Excel Sheet Column Title](/Math/Problem168.java) | Math | Easy
+171 | [Excel Sheet Column Number](/Math/Problem171.java) | Math | Easy
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
 231 | [Power of Two](/Recursion/Problem231.java) | Recursion | Easy
 263 | [Ugly Number](/Recursion/Problem263.java) | Recursion | Easy
