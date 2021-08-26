@@ -22,12 +22,12 @@ public class Problem35 {
         int low = 0, high = nums.length - 1;
         while (low <= high) { // each iteration it searches half of the previous subarray created by [low,high]
             int mid = (high + low) / 2;
-            if (nums[mid] < target) {
-                low = mid + 1;
-            } else if (nums[mid] > target) {
-                high = mid - 1;
-            } else if (nums[mid] == target) { // target found
+            if (nums[mid] == target) { // target found
                 return mid;
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
         return low; // where the target would be if inserted in order

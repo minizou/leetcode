@@ -1,4 +1,4 @@
-# LeetCode | 96 Problems Solved (72 easy, 23 medium, 1 hard)
+# LeetCode | 99 Problems Solved (75 easy, 23 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -15,6 +15,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 21 | [Merge Two Sorted Lists](/Pointers/Problem21.java) | Pointers | Easy
 22 | [Generate Parentheses](/Recursion/Problem22.java) | Recursion / Backtracking | Medium
 26 | [Remove Duplicates from Sorted Array](/Array/Problem26.java) | Array | Easy
+27 | [Remove Element](/Pointers/Problem27.java) | Pointers / Array | Easy
 28 | [Implement strStr()](/Pointers/Problem28.java) | Pointers | Easy
 35 | [Search Insert Position](/Binary_Search/Problem35.java) | Binary Search | Easy
 48 | [Rotate Image](/Array/Problem48.java) | Array / Pointers / Spiral | Medium
@@ -33,6 +34,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 231 | [Power of Two](/Recursion/Problem231.java) | Recursion | Easy
 263 | [Ugly Number](/Recursion/Problem263.java) | Recursion | Easy
 268 | [Missing Number](/Math/Problem268.java) | Math / Binary Search | Easy
+278 | [First Bad Version](/Binary_Search/Problem278.java) | Binary Search | Easy
 326 | [Power of Three](/Recursion/Problem326.java) | Recursion | Easy
 342 | [Power of Four](/Recursion/Problem342.java) | Recursion | Easy
 344 | [Reverse String](/Pointers/Problem344.java) | Pointers | Easy
@@ -45,6 +47,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 643 | [Maximum Average Subarray I](/Pointers/Problem643.java) | Pointers | Easy
 657 | [Robot Return to Origin](/String/Problem657.java) | String | Easy
 695 | [Max Area of Island](/DFS/Problem695.java) | DFS | Medium
+704 | [Binary Search](/Binary_Search/Problem704.java) | Binary Search | Easy
 709 | [To Lower Case](/String/Problem709.java) | String | Easy
 728 | [Self Dividing Numbers](/Math/Problem728.java) | Math | Easy
 763 | [Partition Labels](/Pointers/Problem763.java) | Pointers | Medium
