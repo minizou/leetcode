@@ -1,4 +1,4 @@
-# LeetCode | 99 Problems Solved (75 easy, 23 medium, 1 hard)
+# LeetCode | 101 Problems Solved (76 easy, 24 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -30,11 +30,13 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 136 | [Single Number](/Hash/Problem136.java) | Hash | Easy
 168 | [Excel Sheet Column Title](/Math/Problem168.java) | Math | Easy
 171 | [Excel Sheet Column Number](/Math/Problem171.java) | Math | Easy
+189 | [Rotate Array](/Pointers/Problem189.java) | Pointers / Math | Medium
 209 | [Minimum Size Subarray Sum](/Pointers/Problem209.java) | Pointers | Medium
 231 | [Power of Two](/Recursion/Problem231.java) | Recursion | Easy
 263 | [Ugly Number](/Recursion/Problem263.java) | Recursion | Easy
 268 | [Missing Number](/Math/Problem268.java) | Math / Binary Search | Easy
 278 | [First Bad Version](/Binary_Search/Problem278.java) | Binary Search | Easy
+283 | [Move Zeroes](/Array/Problem283.java) | Array | Math | Easy
 326 | [Power of Three](/Recursion/Problem326.java) | Recursion | Easy
 342 | [Power of Four](/Recursion/Problem342.java) | Recursion | Easy
 344 | [Reverse String](/Pointers/Problem344.java) | Pointers | Easy
