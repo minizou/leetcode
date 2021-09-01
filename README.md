@@ -1,4 +1,4 @@
-# LeetCode | 102 Problems Solved (77 easy, 24 medium, 1 hard)
+# LeetCode | 104 Problems Solved (78 easy, 25 medium, 1 hard)
 My solutions for various LeetCode problems **(code, time/space complexity, intuition)**.
 Note that the LeetCode problem descriptions themselves are **not added.**
 
@@ -11,6 +11,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 11 | [Container With Most Water](/Pointers/Problem11.java) | Pointers | Medium
 13 | [Roman to Integer](/String/Problem13.java) | String | Easy
 14 | [Longest Common Prefix](/String/Problem14.java) | String | Easy
+19 | [Remove Nth Node From End of List](/Pointers/Problem19.java) | Pointers / Linked List | Medium
 20 | [Valid Parentheses](/Stack/Problem20.java) | Stack | Easy
 21 | [Merge Two Sorted Lists](/Pointers/Problem21.java) | Pointers | Easy
 22 | [Generate Parentheses](/Recursion/Problem22.java) | Recursion / Backtracking | Medium
@@ -59,6 +60,7 @@ Note that the LeetCode problem descriptions themselves are **not added.**
 821 | [Shortest Distance to a Character](/Pointers/Problem821.java) | Pointers | Easy
 832 | [Flipping an Image](/Array/Problem832.java) | Array | Easy
 872 | [Leaf-Similar Trees](/Trees/Problem872.java) | Trees | Easy 
+876 | [Middle of the Linked List](/Pointers/Problem876.java) | Pointers / Linked List | Easy
 904 | [Fruit Into Baskets](/Pointers/Problem904.java) | Pointers | Medium
 905 | [Sort Array By Parity](/Pointers/Problem905.java) | Pointers | Easy
 922 | [Sort Array By Parity II](/Pointers/Problem905.java) | Pointers | Easy
